@@ -1,16 +1,17 @@
-## Hi there 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-<!--
-**TsubasaBneAus/TsubasaBneAus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Engineer at Fuller, Inc.
+- Having a Bachelor's degree in Computer Science at the Queensland University of Technology
+- 1-Year Working Experience developing APIs and building infrastructure with AWS
 
-Here are some ideas to get you started:
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,js,ts,react,next,python,go,mysql,docker,aws,gcp,firebase,figma,postman" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏃‍♀️ Activities
+<div align="left"> 
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=TsubasaBneAus&theme=vue-dark&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TsubasaBneAus&theme=vue-dark&layout=compact" />
+</div>
+
+## 🤝 Contact
+<a href="https://www.linkedin.com/in/tsubasa-endo-421b4b1a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
